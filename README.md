@@ -160,7 +160,7 @@ Steps:
 ---
 
 ## 🧑‍💻 Maintainers
-- [Your Name](https://github.com/yourusername)
+- [Piyush Golan](https://github.com/yourusername)
 
 ---
 
