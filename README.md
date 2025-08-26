@@ -44,17 +44,17 @@ This creates a **`quickseed`** (Linux/macOS) or **`quickseed.exe`** (Windows) bi
 After starting, open your browser or media player at:
 
 ```
-http://localhost:8090
+http://localhost:8090/stream
 ```
 
 Example with **mpv**:
 ```bash
-mpv http://localhost:8090
+mpv http://localhost:8090/stream
 ```
 
 Example with **VLC**:
 ```bash
-vlc http://localhost:8090
+vlc http://localhost:8090/stream
 ```
 
 ---
