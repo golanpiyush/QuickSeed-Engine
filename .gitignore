@@ -1,6 +1,29 @@
+# Create a .gitignore file for Go projects
+@"
+# Binaries
+quickseed
+quickseed.exe
+*.exe
+*.dll
+*.so
+*.dylib
 
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
 
+# OS files
+.DS_Store
+Thumbs.db
 
-# BUILD FILE
+# Go files
+/bin/
+/pkg/
+/go.sum
 
-.quickseed.exe
+# Temporary files
+/tmp/
+*.tmp
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
