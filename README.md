@@ -2,8 +2,8 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go&logoColor=white)](https://golang.org/dl/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/golanpiyush/quickseed)](https://github.com/golanpiyush/quickseed/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/golanpiyush/quickseed)](https://github.com/golanpiyush/quickseed/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/golanpiyush/QuickSeed-Engine)](https://github.com/golanpiyush/QuickSeed-Engine/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/golanpiyush/QuickSeed-Engine)](https://github.com/golanpiyush/QuickSeed-Engine/stargazers)
 
 **QuickSeed** is a fast and lightweight torrent streaming engine written in Go.  
 It allows you to stream videos directly from torrents **without waiting for full downloads**.
