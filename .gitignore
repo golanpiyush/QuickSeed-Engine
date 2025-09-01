@@ -8,7 +8,9 @@ quickseed.exe
 *.so
 *.dylib
 *.dist
-
+.quickseed-386.exe
+.quickseed-darwin-amd64
+.quickseed-arm64.exe
 # IDE files
 .vscode/
 .idea/
