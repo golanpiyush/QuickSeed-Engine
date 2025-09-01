@@ -7,7 +7,7 @@ quickseed.exe
 *.dll
 *.so
 *.dylib
-.dist
+*.dist
 
 # IDE files
 .vscode/
