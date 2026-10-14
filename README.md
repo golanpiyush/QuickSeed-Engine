@@ -26,7 +26,7 @@ It allows you to stream videos directly from torrents **without waiting for full
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/yourusername/quickseed.git
+git clone https://github.com/golanpiyush/quickseed.git
 cd quickseed
 go build -o quickseed ./cmd/quickseed
 ```
